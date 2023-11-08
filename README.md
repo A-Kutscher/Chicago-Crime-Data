@@ -1,6 +1,6 @@
 # Chicago Crime Data
 
-By: AMber Kutscher
+By: Amber Kutscher
 
 ![Project Dashboard](Data/Project_Dashboard_Snippet.png)
 
